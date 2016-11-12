@@ -1,5 +1,5 @@
 const int ledPin[] = {12,8,7};
-const int swcPin = 3;
+const int swcPin = 2;
 
 boolean lastState = LOW; // last swich state
 int ptnNum = 0; // pattern number(0 : turn off)
