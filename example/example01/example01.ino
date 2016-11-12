@@ -1,4 +1,4 @@
-#define OUT 7
+#define OUT 8
 
 void setup() {
   pinMode(OUT, OUTPUT);
